@@ -1,0 +1,18 @@
+export const cardImages = [
+  { source: "require('../assets/img/ant-man.png')", matched: false },
+  { source: "require('../assets/img/black-panther.png')", matched: false },
+  { source: "require('../assets/img/black-widow.png')", matched: false },
+  { source: "require('../assets/img/captain-america.png')", matched: false },
+  { source: "require('../assets/img/captain-marvel.png')", matched: false },
+  { source: "require('../assets/img/falcon.png')", matched: false },
+  { source: "require('../assets/img/hawkeye.png')", matched: false },
+  { source: "require('../assets/img/hulk.png')", matched: false },
+  { source: "require('../assets/img/iron-man.png')", matched: false },
+  { source: "require('../assets/img/loki.png')", matched: false },
+  { source: "require('../assets/img/scarlet-witch.png')", matched: false },
+  { source: "require('../assets/img/spiderman.png')", matched: false },
+  { source: "require('../assets/img/thanos.png')", matched: false },
+  { source: "require('../assets/img/thor.png')", matched: false },
+  { source: "require('../assets/img/war-machine.png')", matched: false },
+  { source: "require('../assets/img/winter-soldier.png')", matched: false },
+]
